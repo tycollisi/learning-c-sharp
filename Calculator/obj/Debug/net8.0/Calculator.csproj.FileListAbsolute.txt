@@ -1,0 +1,15 @@
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/bin/Debug/net8.0/Calculator
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/tycollisi/learning-code/learning-c-sharp/Calculator/obj/Debug/net8.0/ref/Calculator.dll
