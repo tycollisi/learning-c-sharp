@@ -46,5 +46,5 @@ void Calculator(string firstNumber, string operation, string secondNumber)
 
 void ReturnEquation(int firstNumber, string operation, int secondNumber, int solution)
 {
-  Console.WriteLine(firstNumber + " " + operation + " " + secondNumber + " = " + solution);
+  Console.WriteLine($"{firstNumber} {operation} {secondNumber} = {solution}");
 }
